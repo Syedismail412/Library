@@ -1,0 +1,1 @@
+A Library Management System (LMS) in DevOps integrates modern software development, deployment, and operational practices to manage a library's resources efficiently. This project leverages DevOps principles such as Continuous Integration (CI), Continuous Deployment (CD), Infrastructure as Code (IaC), and monitoring to ensure seamless management and automation.
